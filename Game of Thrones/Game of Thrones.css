@@ -1,0 +1,41 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	width: 1400px;
+	background-color: steelblue;
+}
+h1 {
+	margin: 0px 0px;
+	font-family: Arial;
+}
+h3 {
+	margin: 0px 0px;
+	font-family: Arial;
+}
+#pic_container {
+	margin: 20px 0px 0px 50px;
+	display: block;
+}
+img {
+	width: 250px;
+	border: 2px solid darkgrey;
+	margin: 0px 20px 0px 0px; 
+	vertical-align: top;
+	display: inline-block;
+}
+.lannister {
+	width: 188px;
+}
+#pop_up {
+	width: 600px;
+	margin: 20px 0px 0px 50px;
+	padding: 30px;
+	font-family: Arial;
+	border: 2px solid #112a6d;
+	background: linear-gradient(#001449,#98d4ce) ;
+}
+#pop_up p {
+	margin: 20px 0px 0px 0px;
+}

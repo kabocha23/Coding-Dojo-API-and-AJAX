@@ -1,0 +1,52 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	width: 1400px;
+	background-color: steelblue;
+}
+h1 {
+	font-family: Arial;
+}
+#pokemon_container {
+	width: 750px;
+	display: inline-block;
+}
+#pokedex {
+	width: 250px;
+	vertical-align: top;
+	display: inline-block;
+	position: fixed;
+	top: 0;
+}
+img {
+	width: 80px;
+}
+#popup {
+	width: 100%;
+	margin: 40px 0px 0px 0px;
+	padding: 10px;
+	font-family: Arial;
+	background-color: lightgrey;
+	border: 2px solid sienna;
+	border-radius: 10px	;
+	box-sizing: border-box;
+}
+#popup h2 {
+	text-align: center;
+}
+#popup img {
+	width: 200px;
+	margin-left: 15px;
+}
+#popup h4 {
+	margin: 20px 0px 5px 20px;
+}
+#popup p {
+	margin-left: 20px;
+}
+#popup li {
+	margin-left: 20px;
+	list-style: inside;
+}

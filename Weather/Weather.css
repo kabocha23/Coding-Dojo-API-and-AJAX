@@ -1,0 +1,26 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	width: 1000px;
+	background-color: steelblue;
+}
+h1 {
+	margin: 20px 40px;
+	font-family: Arial;
+}
+#search_container {
+	margin: 20px 0px 0px 40px;
+	display: block;
+}
+#search {
+	height: 20px;
+}
+#click {
+	width: 120px;
+	height: 20px;
+}
+#results_container {
+	display: block;
+}
